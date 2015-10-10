@@ -1,0 +1,10 @@
+site_name: Mikhail Artemyev
+pages:
+- About: index.md
+- Publications: publications.md
+- Projects: projects.md
+theme: spacelab
+strict: true
+site_favicon: favicon.ico
+include_next_prev: false
+
