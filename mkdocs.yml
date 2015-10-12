@@ -3,7 +3,7 @@ pages:
 - About: index.md
 - Publications: publications.md
 - Projects: projects.md
-theme: simplex
+theme: yeti
 strict: true
 site_favicon: favicon.ico
 include_next_prev: false

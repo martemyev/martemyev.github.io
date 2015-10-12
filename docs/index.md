@@ -1,6 +1,6 @@
 # About me
 
-I am a Postdoctoral Research Associate at [Institute for Scientific Computation](http://www.isc.tamu.edu) at Texas A&M University. Here I work with [Prof. Yalchin Efendiev](http://www.math.tamu.edu/~efendiev) and [Prof. Richard Gibson](http://geoweb.tamu.edu/profile/RGibson) on a project dedicated to seismic waves simulation using state-of-the-art multiscale methods. 
+I am a Postdoctoral Research Associate at the [Institute for Scientific Computation](http://www.isc.tamu.edu) at Texas A&M University. Here I work with [Prof. Yalchin Efendiev](http://www.math.tamu.edu/~efendiev) and [Prof. Richard Gibson](http://geoweb.tamu.edu/profile/RGibson) on a project dedicated to seismic waves simulation using state-of-the-art multiscale methods. 
 
 ## Education
 
@@ -29,5 +29,5 @@ artemyev@math.tamu.edu<br/>
 
 ## CV
 
-[CV in pdf](~/for_homepage/artemyev_cv.pdf)
+[CV in pdf](./for_homepage/artemyev_cv.pdf)
 

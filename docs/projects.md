@@ -26,6 +26,6 @@
   C++ application performing numerical homogenization of electrical resistivity of rock samples containing grains of different shapes, size, location and orientation. This is my PhD project, which is not in open access due to its proprietary license belonging to Institute of Petroleum Geology and Geophysics SB RAS. The project implements parallel algorithms of standard multiscale finite element method for periodic and aperiodic media. Parallel versions are developed using OpenMP for systems with shared memory, and using MPI for computer clusters. The project was successfully used on two supercomputers: one is in Novosibirsk State University, another is in Keldysh Institute of Applied Mathematics RAS.<br/>
   Keywords: C++, OOD, STL, OpenMP, MPI, Tecplot, mixture
 
-* [_VFEM_](../for_homepage/sources/vfem.tar.gz)<br/>
+* [_VFEM_](./for_homepage/sources/vfem.tar.gz)<br/>
   Fortran90 application for solution of Helmholtz equation in 3D. It implements algorithms of vector finite element method (with Nedelec basis functions) and two-level solver designed specifically for those basis functions (more details [here](http://www.sciencedirect.com/science/article/pii/S0898122107007328)). This is my M.Sc. project, I don't maintain it, but still keep it.<br/>
   Keywords: Fortran90, VFEM, two-level solver, Tecplot
